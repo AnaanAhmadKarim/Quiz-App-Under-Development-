@@ -1,0 +1,27 @@
+html{
+    font-family: 'Roboto Slab', serif !important;
+
+}
+*{
+    font-family: 'Roboto Slab', serif !important;
+
+}
+.background-wrapper{
+    position: relative;
+    background: linear-gradient(to right, rgb(55, 59, 68), rgb(66, 134, 244));
+}
+.quiz-container{
+    width: 400px;
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    background: white;
+    padding: 25px;
+    border-radius: 6px;
+    box-shadow: 20px 15px 3px #423636;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+}
