@@ -10,7 +10,7 @@ var myQuestions = [
         correctAnswer: 'b'
     },
     {
-        question: "Whose assassination caused World War One?",
+        question: "Whose assassination marked the beginning of the First World War?",
         answers: {
             a: "Archduke Franz Ferdinand",
             b: "George V",
@@ -60,7 +60,7 @@ var myQuestions = [
         correctAnswer: 'a'
     },
     {
-        question: "When Coronavirus started?",
+        question: "When did the first known case of COVID-19 occured?",
         answers: {
             a: "December 2019",
             b: "January 2020",
@@ -80,7 +80,7 @@ var myQuestions = [
         correctAnswer: 'b'
     },
     {
-        question: "Who made Mughal Empire?",
+        question: "Who founded Mughal Empire?",
         answers: {
             a: "Babur",
             b: "Ibrahim Lodi",
@@ -100,7 +100,7 @@ var myQuestions = [
         correctAnswer: 'a'
     },
     {
-        question: "Which war ended in 1991, which saw the fall of USSR?",
+        question: "Which series of ideological rifts and political tensions ended in 1991, which saw the fall of USSR?",
         answers: {
             a: "WW2",
             b: "Russian Civil War",
@@ -130,7 +130,7 @@ var myQuestions = [
         correctAnswer: 'd'
     },
     {
-        question: "Who is the richest man in the world as per 2021?",
+        question: "Who is the richest man in the world as of 2021?",
         answers: {
             a: "Jeff Bezos",
             b: "Tim Cook",
@@ -140,7 +140,7 @@ var myQuestions = [
         correctAnswer: 'd'
     },
     {
-        question: "Which company owns google",
+        question: "Which company owns Google?",
         answers: {
             a: "Alphabet Inc.",
             b: "Apple",
